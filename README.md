@@ -1,6 +1,6 @@
 [Click aquí](Notebook.ipynb) para **descargar** mi archivo
 
-
+Libro en [nbviewer](http://nbviewer.jupyter.org/github/gabrielagt1/demo/blob/master/Notebook.ipynb)
 
 ## Welcome to GitHub Pages
 
