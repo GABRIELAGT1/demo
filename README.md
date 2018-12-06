@@ -1,6 +1,5 @@
 [Click aquí](Notebook.ipynb) para **descargar** mi archivo
 
-[Aquí](Notebook.ipynb) para **descargar** el archivo
 
 
 ## Welcome to GitHub Pages
