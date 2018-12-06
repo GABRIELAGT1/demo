@@ -1,7 +1,10 @@
 [Click aquí](Notebook.ipynb) para **descargar** mi archivo
 
 El libro en [nbviewer](http://nbviewer.jupyter.org/github/gabrielagt1/demo/blob/master/Notebook.ipynb)
-[Segundo intento](http://nbviewer.jupyter.org/github/gabrielagt1/demo/blob/master/Notebook.ipynb)
+
+[El libro en nbviewer Segundo intento](http://nbviewer.jupyter.org/github/gabrielagt1/demo/blob/master/Notebook.ipynb)
+
+Ahora el [ archivo en html](Notebook.html)
 
 ## Welcome to GitHub Pages
 
