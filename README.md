@@ -1,4 +1,4 @@
-[Click aquí](notebook.ipnby) para **descargar** mi archivo
+[Click aquí](notebook.ipynb) para **descargar** mi archivo
 
 
 
